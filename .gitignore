@@ -1,0 +1,19 @@
+# Java files
+*.class
+
+# Package Files
+*.jar
+*.war
+
+# Maven Files
+target/
+test-output/
+
+# Gradle Files
+.gradle
+build/
+/out/
+
+# Idea Files
+.idea/
+*.iml
