@@ -8,10 +8,6 @@
 # Maven Files
 target/
 test-output/
-
-# Gradle Files
-.gradle
-build/
 /out/
 
 # Idea Files
